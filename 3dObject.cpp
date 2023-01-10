@@ -1,3 +1,4 @@
+//Tegar Subagdja
 #include <fstream>
 #include <math.h>
 #include <time.h>
